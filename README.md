@@ -6,7 +6,7 @@
 
 # 🏡 Airbnb Property Performance Dashboard
 
-> **An AI-powered interactive Power BI dashboard analyzing Airbnb property performance, revenue optimization, and neighborhood insights using intelligent analytics.**
+> **An AI-powered interactive Power BI dashboard analyzing Airbnb property performance, revenue optimization, and neighborhood insights using intelligent analytics.** 
 
 ---
 
